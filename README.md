@@ -1,3 +1,20 @@
+<h1>(Projeto Full Stack) Devbills Interface</h1>
+
+<h5>Interface do dashboard financeiro Devbills.</h5>
+
+<h4>Tecnologias usadas:</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,ts,vite,react,styledcomponents)](https://skillicons.dev)
+
+<hr>
+
+<h3>Link da API do projeto <a href="https://github.com/lucasfgaldinos/devbills-api">aqui</a></h3>
+
+<div>
+  <img height="600" src="./public/devbills-interface.png" alt="Print da página Home da aplicação em Desktop" />
+</div>
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
